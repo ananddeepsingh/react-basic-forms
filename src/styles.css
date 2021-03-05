@@ -1,0 +1,44 @@
+* {
+  padding: 10px;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#root {
+  width: 450px;
+  margin: 0 auto;
+}
+
+.row {
+  margin: 0 0 10px;
+  float: left;
+  padding: 0;
+  width: 100%;
+}
+
+label {
+  width: 200px;
+  float: left;
+  padding: 10px 0;
+}
+
+input {
+  float: right;
+}
+
+.error {
+  color: red;
+  float: left;
+  padding: 0;
+}
+
+#submit{
+  width: 100px;
+  background: seagreen;
+  border: none;
+  color: #fff;
+  float: right;
+}
